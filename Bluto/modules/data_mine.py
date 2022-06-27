@@ -1,7 +1,7 @@
 import pdfminer
 import requests
-import urllib.request, urllib.error, urllib.parse
-import oletools.thirdparty.olefile as olefile
+import urllib2
+import olefile
 import os
 import traceback
 import time
