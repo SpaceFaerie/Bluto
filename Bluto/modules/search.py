@@ -9,7 +9,7 @@ import re
 import requests
 import random
 import time
-import urllib.request, urllib.error, urllib.parse
+import urllib2
 import json
 from termcolor import colored
 from bs4 import BeautifulSoup
